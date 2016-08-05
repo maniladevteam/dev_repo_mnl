@@ -8,5 +8,4 @@
 		Visit <a href="http://jersey.java.net">Project Jersey website</a> for
 		more information on Jersey! test
 </body>
-
 </html>
